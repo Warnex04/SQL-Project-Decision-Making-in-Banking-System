@@ -2,8 +2,8 @@
 
 ## Authors
 
-- Mohammad Baker
 - Mohammed Addi
+- Mohammad Baker
 
 ## Project Structure
 

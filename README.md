@@ -5,6 +5,11 @@
 - Mohammed Addi
 - Mohammad Baker
 
+## DB Structure Diagram :
+
+![DB Diagram]([https://example.com/image.png](https://imgur.com/l52JYFk))
+
+
 ## Project Structure
 
 The project is structured with SQL scripts organized into specific folders that represent different aspects of the decision-making process in a simulated banking system. Each script is named according to the functionality it implements within the system.

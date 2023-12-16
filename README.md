@@ -35,18 +35,19 @@ Execute the scripts in the following order to replicate the project results:
 
 1. `model.sql`
 2. `additional_tables.sql`
-3. `option_ranking_algo.sql`
-4. `decision_logic_buying.sql`
-5. `decision_logic_exercise.sql`
-6. `portfolio_update.sql`
-7. `bank_financial_dashboard.sql`
-8. `client_financial_dashboard.sql`
-9. `auto-decision-making.sql`
-10. `decision-making-triggers.sql`
-11. `monte_carlo.sql`
-12. `black_schole.sql`
-13. `client_stock_view.sql`
-14. `triggers.sql`
+3.  `monte_carlo.sql`
+4. `black_schole.sql`
+5. `client_stock_view.sql`
+6. `triggers.sql`
+  
+5. `option_ranking_algo.sql`
+6. `decision_logic_buying.sql`
+7. `decision_logic_exercise.sql`
+8. `portfolio_update.sql`
+9. `bank_financial_dashboard.sql`
+10. `client_financial_dashboard.sql`
+11. `auto-decision-making.sql`
+12. `decision-making-triggers.sql`
 15. `tests.sql` - Run this last to test the decision making system.
 
 ## Challenges Encountered

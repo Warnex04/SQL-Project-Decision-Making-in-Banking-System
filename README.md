@@ -7,7 +7,7 @@
 
 ## DB Structure Diagram :
 
-![DB Diagram]([https://example.com/image.png](https://imgur.com/l52JYFk))
+![DB Diagram](https://example.com/image.png)
 
 
 ## Project Structure
